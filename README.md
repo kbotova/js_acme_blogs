@@ -6,6 +6,8 @@
 
 _Once you are working with your own copy of the project on Glitch..._
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d727a8fa-cf64-4326-8417-2e1262a5a1f7/deploy-status)](https://app.netlify.com/sites/pedantic-kepler-b65cef/deploys)
+
 **Follow the directions available in Blackboard** 
 
 _DO NOT CHANGE any of the pre-existing code. Your code only goes in main.js._
